@@ -1,7 +1,7 @@
 # CISG110-Final
 ## Devlogs
 ### Week 12
-Put your Week 12 Devlog answer here.
+A technical error I encountered was my kick's code bugging out when it disabled. To remedy this, I tried to find an answer online. I found a way to code it that made more sense to me, although I don't know what the original issue was.
 
 ### Week 13
 Put your Week 13 Devlog answer here.
